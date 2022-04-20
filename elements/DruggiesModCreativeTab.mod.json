@@ -1,0 +1,11 @@
+{
+  "_fv": 24,
+  "_type": "tab",
+  "definition": {
+    "name": "Druggies Mod Creative Tab",
+    "icon": {
+      "value": "Items.GOLDEN_APPLE#1"
+    },
+    "showSearch": false
+  }
+}
