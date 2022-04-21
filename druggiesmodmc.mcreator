@@ -9,19 +9,35 @@
       "registry_name": "druggies_mod_creative_tab"
     },
     {
-      "name": "Cigarette",
-      "type": "item",
-      "sortid": 2,
+      "name": "Ciggies",
+      "type": "food",
+      "sortid": 3,
       "compiles": true,
       "locked_code": false,
-      "registry_name": "cigarette"
+      "registry_name": "ciggies"
+    },
+    {
+      "name": "CiggiesWhenSmoked",
+      "type": "procedure",
+      "sortid": 4,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "ciggies_when_smoked",
+      "metadata": {
+        "dependencies": [
+          {
+            "name": "entity",
+            "type": "entity"
+          }
+        ]
+      }
     }
   ],
   "variable_elements": [],
   "sound_elements": [],
   "language_map": {
     "en_us": {
-      "item.druggiesmodmc.cigarette": "Cigarette",
+      "item.druggiesmodmc.ciggies": "Ciggies",
       "itemGroup.tabdruggies_mod_creative_tab": "Druggies Mod Creative Tab"
     }
   },
