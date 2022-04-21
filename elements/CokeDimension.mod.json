@@ -1,0 +1,48 @@
+{
+  "_fv": 24,
+  "_type": "dimension",
+  "definition": {
+    "biomesInDimension": [
+      {
+        "value": "cold_ocean"
+      },
+      {
+        "value": "beaches"
+      },
+      {
+        "value": "taiga"
+      }
+    ],
+    "worldGenType": "Normal world gen",
+    "mainFillerBlock": {
+      "value": "Blocks.WOOL#5"
+    },
+    "fluidBlock": {
+      "value": "Blocks.BLACKSTONE_WALL"
+    },
+    "canRespawnHere": false,
+    "hasFog": false,
+    "isDark": false,
+    "doesWaterVaporize": false,
+    "sleepResult": "ALLOW",
+    "hasSkyLight": true,
+    "imitateOverworldBehaviour": false,
+    "portalFrame": {
+      "value": "Blocks.LEAVES#0"
+    },
+    "portalParticles": {
+      "value": "EXPLOSION_NORMAL"
+    },
+    "portalLuminance": 15,
+    "portalSound": {
+      "value": "block.portal.ambient"
+    },
+    "igniterName": "Cocaine Dimension Portal",
+    "igniterTab": {
+      "value": "CUSTOM:DruggiesModCreativeTab"
+    },
+    "texture": "portal_igniter_coke_dimension",
+    "portalTexture": "coke_dimension_block_portal",
+    "enablePortal": true
+  }
+}

@@ -15,12 +15,24 @@
       "compiles": true,
       "locked_code": false,
       "registry_name": "cigarette"
+    },
+    {
+      "name": "CokeDimension",
+      "type": "dimension",
+      "sortid": 3,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "coke_dimension",
+      "metadata": {
+        "ep": true
+      }
     }
   ],
   "variable_elements": [],
   "sound_elements": [],
   "language_map": {
     "en_us": {
+      "item.druggiesmodmc.coke_dimension": "Cocaine Dimension Portal",
       "item.druggiesmodmc.cigarette": "Cigarette",
       "itemGroup.tabdruggies_mod_creative_tab": "Druggies Mod Creative Tab"
     }
