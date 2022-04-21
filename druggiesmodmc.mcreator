@@ -9,11 +9,12 @@
       "registry_name": "druggies_mod_creative_tab"
     },
     {
-      "name": "Cigarette",
-      "type": "item",
-      "sortid": 2,
+      "name": "Ciggies",
+      "type": "food",
+      "sortid": 3,
       "compiles": true,
       "locked_code": false,
+<<<<<<< HEAD
       "registry_name": "cigarette"
     },
     {
@@ -26,14 +27,45 @@
       "metadata": {
         "ep": true
       }
+=======
+      "registry_name": "ciggies"
+    },
+    {
+      "name": "CiggiesWhenSmoked",
+      "type": "procedure",
+      "sortid": 4,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "ciggies_when_smoked",
+      "metadata": {
+        "dependencies": [
+          {
+            "name": "entity",
+            "type": "entity"
+          }
+        ]
+      }
+    },
+    {
+      "name": "CraftCiggiesNormal",
+      "type": "recipe",
+      "sortid": 5,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "craft_ciggies_normal"
+>>>>>>> 3a9d39b5a359f57126ed1d3c3b4080d26d69c715
     }
   ],
   "variable_elements": [],
   "sound_elements": [],
   "language_map": {
     "en_us": {
+<<<<<<< HEAD
       "item.druggiesmodmc.coke_dimension": "Cocaine Dimension Portal",
       "item.druggiesmodmc.cigarette": "Cigarette",
+=======
+      "item.druggiesmodmc.ciggies": "Ciggies",
+>>>>>>> 3a9d39b5a359f57126ed1d3c3b4080d26d69c715
       "itemGroup.tabdruggies_mod_creative_tab": "Druggies Mod Creative Tab"
     }
   },

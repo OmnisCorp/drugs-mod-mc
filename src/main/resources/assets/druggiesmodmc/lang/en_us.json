@@ -1,5 +1,9 @@
 {
+<<<<<<< HEAD
   "item.druggiesmodmc.coke_dimension": "Cocaine Dimension Portal",
   "item.druggiesmodmc.cigarette": "Cigarette",
+=======
+  "item.druggiesmodmc.ciggies": "Ciggies",
+>>>>>>> 3a9d39b5a359f57126ed1d3c3b4080d26d69c715
   "itemGroup.tabdruggies_mod_creative_tab": "Druggies Mod Creative Tab"
 }
