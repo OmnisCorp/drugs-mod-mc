@@ -7,12 +7,21 @@
       "compiles": true,
       "locked_code": false,
       "registry_name": "druggies_mod_creative_tab"
+    },
+    {
+      "name": "Cigarette",
+      "type": "item",
+      "sortid": 2,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "cigarette"
     }
   ],
   "variable_elements": [],
   "sound_elements": [],
   "language_map": {
     "en_us": {
+      "item.druggiesmodmc.cigarette": "Cigarette",
       "itemGroup.tabdruggies_mod_creative_tab": "Druggies Mod Creative Tab"
     }
   },
