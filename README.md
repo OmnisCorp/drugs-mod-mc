@@ -1,4 +1,4 @@
-# Druggies Mod
+# Druggies Mod - DEPRICATED
 
 ## What is this mod
 
